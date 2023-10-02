@@ -27,7 +27,7 @@ line break
 
 [text] (http://a.com)
 
-![Image](http://url/a.png)
+![Image](cat.png)
 
 > Blockquote
 
