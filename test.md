@@ -3,7 +3,8 @@
 First paragraph 
 
 Second Paragraph 
-Using a\line break
+Using a\
+line break
 
 # Heading 1
 ## Heading 2
