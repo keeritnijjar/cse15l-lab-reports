@@ -14,6 +14,5 @@
 1. cat 
 1. 
 
-'''
-[user@sahara ~]$ cd lecture1
-[user@sahara ~/lecture1]$ cd messages '''
+'[user@sahara ~]$ cd lecture1
+[user@sahara ~/lecture1]$ cd messages'
