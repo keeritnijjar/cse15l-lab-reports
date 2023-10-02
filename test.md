@@ -24,7 +24,7 @@ Using a\ line break
 2. Second
 3. Third
 
-[text] (example.com)
+[text] (http://a.com)
 
 ![Image](http://url/a.png)
 
