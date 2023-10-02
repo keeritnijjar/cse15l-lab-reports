@@ -16,5 +16,4 @@
 
 '''
 [user@sahara ~]$ cd lecture1
-[user@sahara ~/lecture1]$ cd messages
-'''
+[user@sahara ~/lecture1]$ cd messages '''
