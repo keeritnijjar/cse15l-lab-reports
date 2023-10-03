@@ -1,15 +1,15 @@
 # Lab Report 1
 
-## cd
+cd
 1. cd
 2. cd lecture1
 3. cd messages
 
-## ls
+ls
 1. ls
 2. ls lecture1
 3. ls Hello.java
 
-## cat 
+cat
 1. cat 
 1. 
