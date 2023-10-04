@@ -5,6 +5,13 @@ cd
 2. cd lecture1
 3. cd messages
 
+```
+[user@sahara ~]$ cd
+[user@sahara ~]$ cd lecture1
+[user@sahara ~/lecture1]$ cd messages
+[user@sahara ~/lecture1/messages]$
+```
+
 ls
 1. ls
 2. ls lecture1
