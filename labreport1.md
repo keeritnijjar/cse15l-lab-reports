@@ -17,6 +17,15 @@ ls
 2. ls lecture1
 3. ls Hello.java
 
+```
+[user@sahara ~]$ ls
+cse15llab1  Hello.java  lecture1
+[user@sahara ~]$ ls lecture1
+Hello.class  Hello.java  messages  README
+[user@sahara ~]$ ls Hello.java
+Hello.java
+```
+
 cat
 1. cat 
 1. 
