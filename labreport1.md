@@ -28,4 +28,13 @@ Hello.java
 
 cat
 1. cat 
-1. 
+2. cat lecture1
+3. cat Hello.java
+
+```
+[user@sahara ~]$ cat
+[user@sahara ~]$ cat lecture1
+cat: lecture1: Is a directory
+[user@sahara ~]$ cat Hello.java
+```
+
