@@ -30,12 +30,11 @@ ls: cannot access 'messages': No such file or directory
 [user@sahara ~]$ cd lecture1
 [user@sahara ~/lecture1]$ ls messages
 af.txt  en-us.txt  es-mx.txt  zh-cn.txt
-[user@sahara ~/lecture1]$ 
 ```
 For this one, I began with cd to take it back to the main directory and use ls to show what is within my home. Then I can continue to list what is in each file.
 1. Working Directory: Home, Description: used ls to see what is in the home directory, Error: no error since it shows the result correctly
 2. Working Directory: Home, Description: used ls to see what is in the lecture1 directory, Error: no error since it shows the result correctly
-3. Working Directory: Home, Description: I tried to use ls to list the files inside the messages directory but since the directory wasn't assigned it couldn't access them so I changed the working directory to lecture1 and I was able to list all files in messages, Error: no errot just need to assign working directory
+3. Working Directory: lecture1, Description: I tried to use ls to list the files inside the messages directory but since the directory wasn't assigned it couldn't access them so I changed the working directory to lecture1 and I was able to list all files in messages, Error: no errot just need to assign working directory
 
 ## cat
 1. cat 
