@@ -53,6 +53,7 @@ class StringServer {
 
 ## Part 2
 Path to private key: /Users/juniper_freight_lines_inc/.ssh/id_rsa
+
 Path to public key: /Users/juniper_freight_lines_inc/.ssh/id_rsa.pub
 
 Log In: 
