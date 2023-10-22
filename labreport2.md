@@ -1,6 +1,6 @@
 # Lab Report 2
 
-Code: 
+## Part 1
 ```
 import java.io.IOException;
 import java.net.URI;
@@ -41,9 +41,22 @@ class StringServer {
 ```
 
 ![Image](Hello.png)
-1. Which methods in your code are called?
-2. What are the relevant arguments to those methods, and the values of any relevant fields of the class?
-3. How do the values of any relevant fields of the class change from this specific request? If no values got changed, explain why.
+1. Which methods called: In the main method, handleRequest is called
+2. arguments: the url, first one is Hello
+    - values: num, tracks times /add called
+3. every time method called, and has /add num incremented
 ![Image](How.png)
+1. Which methods called: In the main method, handleRequest is called
+2. arguments: the url, second one How are you
+    - values: num, tracks times /add called
+3. every time method called, and has /add num incremented
 
+## Part 2
+Path to private key: /Users/juniper_freight_lines_inc/.ssh/id_rsa
+Path to public key: /Users/juniper_freight_lines_inc/.ssh/id_rsa.pub
 
+Log In: 
+![Image](loggingIn.png)
+
+## Part 3
+I learned how to run a server, having a starter code that does most of the implementation is really helpful but I enjoyed messing around with the different paths and queries. I also learned how sensitive each line is. Changing one small thing made the server not run the way it was supposed to so that was also interesting. 
