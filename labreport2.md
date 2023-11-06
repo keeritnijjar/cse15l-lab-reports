@@ -54,6 +54,7 @@ class StringServer {
 ## Part 2
 Path to private key: /Users/juniper_freight_lines_inc/.ssh/id_rsa
 ![Image](private.png)
+
 Path to public key: /Users/juniper_freight_lines_inc/.ssh/id_rsa.pub
 ![Image](public.png)
 
