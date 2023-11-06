@@ -80,4 +80,5 @@ Using this for type f did not return anything but using it for type d returned e
 
 Sources: 
 https://www.redhat.com/sysadmin/linux-find-command
+
 https://www.computerhope.com/unix/ufind.htm#examples
