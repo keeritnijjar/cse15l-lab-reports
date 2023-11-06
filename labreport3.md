@@ -77,3 +77,7 @@ find ~ -type d -empty
 /home/docsearch/.git/objects/info
 ```  
 Using this for type f did not return anything but using it for type d returned empty directories, I noticed that they didn't show up for type f but do for type d
+
+Sources: 
+https://www.redhat.com/sysadmin/linux-find-command
+https://www.computerhope.com/unix/ufind.htm#examples
