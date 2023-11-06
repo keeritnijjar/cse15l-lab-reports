@@ -62,12 +62,13 @@ find ~ -type d
 /home/docsearch/.git
 /home/docsearch/.git/logs
 /home/docsearch/.git/logs/refs
+...
 ```
 Using this command shows the list the files in the directory, for the second example I used type d which finds the directories
 
 4. find ~ -type f(d) -empty
    - this allows to find files, directories that are empty
-   - Examples
+   - Examples:
   
 ```
 find ~ -type f -empty
