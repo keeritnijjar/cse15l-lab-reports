@@ -11,7 +11,7 @@ class Handler implements URLHandler {
     int num = 0;
 
     public String handleRequest(URI url) {
-        if (url.getPath().contains("/add")) {
+        if (url.getPath().contains("/add-message")) {
             String[] parameters = url.getQuery().split("=");
             for (int i = 0; i < parameters.length; i++) {
                 System.out.println(parameters[i]);
@@ -53,8 +53,9 @@ class StringServer {
 
 ## Part 2
 Path to private key: /Users/juniper_freight_lines_inc/.ssh/id_rsa
-
+![Image](private.png)
 Path to public key: /Users/juniper_freight_lines_inc/.ssh/id_rsa.pub
+![Image](public.png)
 
 Log In: 
 ![Image](loggingIn.png)
